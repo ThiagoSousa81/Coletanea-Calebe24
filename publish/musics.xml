@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- O caminho padrão é "C:\Program Files\Missão Calebe 2024\musics.xml" -->
+<coletanea><!-- Adicione mais músicas conforme necessário -->
+    <musica>
+        <titulo>Maranata</titulo>
+        <caminho>F:\MARANATA - TEMA JA 2024 _ MÚSICA OFICIAL (Letra).mp4</caminho>
+    </musica>
+    <musica>
+        <titulo>Eu Sou Calebe</titulo>
+        <caminho>F:\EU SOU CALEBE  _ CD JOVEM _ MENOS UM.mp4</caminho>
+    </musica>    
+    <musica>
+        <titulo>Maravilhas</titulo>
+        <caminho>F:\MARAVILHAS _ CD JOVEM _ MENOS UM.mp4</caminho>
+    </musica>
+    <musica>
+        <titulo>O Poder do Amor</titulo>
+        <caminho>F:\O PODER DO AMOR _ CD JOVEM _ MENOS UM.mp4</caminho>
+    </musica>
+    <musica>
+        <titulo>Toma O Meu Coração</titulo>
+        <caminho>F:\TOMA O MEU CORAÇÃO _ PRISMA BRASIL _ MENOS UM.mp4</caminho>
+    </musica>
+    <musica>
+        <titulo>Entrega</titulo>
+        <caminho>F:\ENTREGA _ CD JOVEM _ MENOS UM.mp4</caminho>
+    </musica>
+    <musica>
+        <titulo>Meu Farol</titulo>
+        <caminho>F:\MEU FAROL  _ COLETÂNEA JOVEM _ MENOS UM 2018.mp4</caminho>
+    </musica>
+    <musica>
+        <titulo>Somos Teus</titulo>
+        <caminho>F:\SOMOS TEUS _ CD JOVEM _ MENOS UM.mp4</caminho>
+    </musica>
+    <musica>
+        <titulo>Oração</titulo>
+        <caminho>F:\</caminho>
+    </musica>
+    <musica>
+        <titulo>Sorteio</titulo>
+        <caminho>F:\</caminho>
+    </musica>
+    <musica>
+        <titulo>Apelo</titulo>
+        <caminho>F:\</caminho>
+    </musica>
+</coletanea>
